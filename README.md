@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://startupi.com.br/wp-content/uploads/2017/11/girlswhocode_allison_cohen-631x250.jpg">
 
 
 # Vitoria Oliveira
